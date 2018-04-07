@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DexClassLoader/DexClassLoader.iml" filepath="$PROJECT_DIR$/DexClassLoader/DexClassLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic.iml" filepath="$PROJECT_DIR$/Dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathClassLoader/PathClassLoader.iml" filepath="$PROJECT_DIR$/PathClassLoader/PathClassLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathClassLoaderPlugin/PathClassLoaderPlugin.iml" filepath="$PROJECT_DIR$/PathClassLoaderPlugin/PathClassLoaderPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iplugin/iplugin.iml" filepath="$PROJECT_DIR$/iplugin/iplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+    </modules>
+  </component>
+</project>
