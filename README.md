@@ -6,6 +6,8 @@
 
 [插件化开发的入门](markdown/插件化开发的入门.md)
 
+[Hook的机制](markdown/Hook的机制.md)
+
 
 工程介绍：
 
